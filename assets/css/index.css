@@ -82,12 +82,12 @@
 
 .heartcore_logo {
   border-right: 1px solid black;
+  height: fixed;
 }
 
 .heartcore_logo,
 .sigmaways_logo {
   width: auto;
-  height: auto;
   padding: 20px;
 }
 
